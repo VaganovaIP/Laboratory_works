@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="14b245e3-1cdd-4aa4-8fc6-fbb727a020dc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../l2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/Laba3/example05_01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/Laba3/example05_02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/Laba3/example05_03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/Laba3/example05_04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/Laba3/example05_05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/Laba3/example05_06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/Laba3/example05_07.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/Laba3/example05_08.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/Laba3/example05_09.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/Laba3/example05_10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/Laba4/example05_01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/Laba4/example05_02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/Laba4/example05_03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/Laba4/example05_04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/Laba4/example05_05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/Laba4/example05_06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/Laba4/example05_07.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/Laba4/example05_08.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/Laba4/example05_09.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/Laba5/example05_01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/Laba5/example05_02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/Laba5/example05_03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/Laba5/example05_04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/Laba5/example05_05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/Laba5/example05_06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/Laba5/main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/Laba6/example05_01$mainMethod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/Laba6/example05_01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/Laba6/example05_02$class1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/Laba6/example05_02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/Laba6/example05_03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/Laba6/example05_04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/Laba6/example05_05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/Laba6/example05_06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/Laba6/example05_07.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/Laba6/example05_08.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/Laba6/example05_09.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/Laba6/example05_10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/Laba7/Class4_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/Laba7/Class4_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/Laba7/Class4_3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/Laba7/SubClass2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/Laba7/SubClass3_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/Laba7/SubClass3_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/Laba7/Subclass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/Laba7/Subclass5_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/Laba7/Subclass5_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/Laba7/Super_class.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/Laba7/Super_class2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/Laba7/Super_class3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/Laba7/Super_class5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/Laba7/example05_01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/Laba7/example05_02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/Laba7/example05_03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/Laba7/example05_04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/Laba7/example05_05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/Laba8/example06_01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/Laba8/example06_02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/Laba8/example06_03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/Laba8/example06_04$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/Laba8/example06_04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/Laba8/example06_05$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/Laba8/example06_05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/Laba8/example06_06$Numbers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/Laba8/example06_06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/Laba8_1/example06_01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/Laba9/example.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/Timus/ev.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/laba1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/laba1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/laba1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/laba1/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/laba1/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/laba1/example05_01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/laba1/example05_02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/laba1/example05_03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/laba1/example05_04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/laba1/example05_05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/laba1/example05_06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/laba1/example05_07.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/laba1/example05_08.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/laba1/example05_09.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/laba1/example05_10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/laba1/example05_11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/laba1/example05_12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/laba1/example05_13.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/laba1/example05_14.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/laba1/example05_15.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/laba1/example05_16.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/laba1/example05_17.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/laba1/example05_18.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/laba1/example05_19.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/laba1/example05_20.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/laba1/laba1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/laba2/example05_01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/laba2/example05_02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/laba2/example05_03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/laba2/example05_04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/laba2/example05_05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/l2/timus.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laba3/example05_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laba3/example05_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laba3/example05_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laba3/example05_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laba3/example05_05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laba3/example05_06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laba3/example05_07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laba3/example05_08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laba3/example05_09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laba3/example05_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laba4/example05_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laba4/example05_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laba4/example05_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laba4/example05_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laba4/example05_05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laba4/example05_06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laba4/example05_07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laba4/example05_08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laba4/example05_09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laba5/example05_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laba5/example05_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laba5/example05_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laba5/example05_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laba5/example05_05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laba5/example05_06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laba5/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laba6/example05_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laba6/example05_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laba6/example05_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laba6/example05_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laba6/example05_05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laba6/example05_06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laba6/example05_07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laba6/example05_08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laba6/example05_09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laba6/example05_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Laba7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example05_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example05_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example05_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example05_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example05_05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laba8/example06_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laba8/example06_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laba8/example06_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laba8/example06_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laba8/example06_05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laba8/example06_06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laba9/example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Timus/ev.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laba1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laba1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laba1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laba1/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laba1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laba1/example05_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laba1/example05_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laba1/example05_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laba1/example05_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laba1/example05_05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laba1/example05_06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laba1/example05_08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laba1/example05_09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laba1/example05_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laba1/example05_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laba1/example05_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laba1/example05_13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laba1/example05_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laba1/example05_15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laba1/example05_16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laba1/example05_17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laba1/example05_18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laba1/example05_19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laba1/example05_20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laba1/laba1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laba2/example05_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laba2/example05_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laba2/example05_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laba2/example05_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laba2/example05_05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="26bGi34hOouZOWOFqG21p4virAz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14b245e3-1cdd-4aa4-8fc6-fbb727a020dc" name="Changes" comment="" />
+      <created>1647684995913</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647684995913</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
